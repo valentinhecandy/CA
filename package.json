@@ -1,0 +1,30 @@
+{
+  "name": "candy",
+  "version": "1.0.0",
+  "description": "bot discord",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord-channel-nuke": "^1.1.3",
+    "discord.js-poll-embed": "^1.0.2",
+    "dotenv": "^10.0.0",
+    "discord-anti-spam": "^2.5.1",
+    "cpu-stat": "^2.0.1",
+    "ms": "^2.1.3",
+    "moment-duration-format": "^2.3.2",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "&help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "CA"
+  },
+  "keywords": [
+    "moderation"
+  ],
+  "author": "Noah",
+  "license": "ISC"
+}
